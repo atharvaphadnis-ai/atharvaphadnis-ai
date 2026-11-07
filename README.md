@@ -7,7 +7,7 @@
 ### An 8th-grade student who loves building things with code, electronics and imagination.
 
 [![GitHub followers](https://img.shields.io/github/followers/atharvaphadnis-ai?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/atharvaphadnis-ai?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/atharvaphadnis-ai?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)](https://github.com/atharvaphadnis-ai?tab=repositories)
+[![GitHub stars](https://img.shields.io/github/stars/atharvaphadnis-ai?style=for-the-badge&logo=github&label=Total%25Stars&color=yellow)](https://github.com/atharvaphadnis-ai?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=atharvaphadnis-ai&style=for-the-badge&color=blueviolet)](https://github.com/atharvaphadnis-ai)
 
 </div>
